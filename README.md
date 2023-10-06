@@ -4,7 +4,8 @@
 
 A simple restaurant billing program built in C. It provides a basic functionality of choosing menu items, specifying their quantity, and then generating a bill.
 
-<img width="331" alt="image" src="https://github.com/ChadaBendriss/RestaurantBillingProgram/assets/113207156/675e10b1-7cd9-464f-9b72-1a6006cb923a">
+
+<img width="331" alt="Capture d’écran 2023-10-06 062023" src="https://github.com/ChadaBendriss/RestaurantBillingProgram/assets/113207156/2eb4ed25-f938-4f7f-86c5-d84657e06795">
 
 
 ## Features
